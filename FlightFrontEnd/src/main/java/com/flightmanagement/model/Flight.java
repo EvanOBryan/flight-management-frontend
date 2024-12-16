@@ -1,4 +1,4 @@
-package main.java.com.flightmanagement.model;
+package com.flightmanagement.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

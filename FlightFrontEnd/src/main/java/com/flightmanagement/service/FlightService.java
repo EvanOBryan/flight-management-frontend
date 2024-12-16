@@ -1,4 +1,4 @@
-package main.java.com.flightmanagement.service;
+package com.flightmanagement.service;
 
 import com.flightmanagement.dto.FlightDTO;
 import com.flightmanagement.model.Flight;

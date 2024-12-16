@@ -1,4 +1,4 @@
-package main.java.com.flightmanagement.repository;
+package com.flightmanagement.repository;
 
 import com.flightmanagement.model.Flight;
 import org.springframework.data.domain.Page;

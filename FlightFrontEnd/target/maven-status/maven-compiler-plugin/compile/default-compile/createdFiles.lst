@@ -1,0 +1,6 @@
+com/flightmanagement/dto/FlightDTO.class
+com/flightmanagement/model/Flight.class
+main/java/com/flightmanagement/FlightManagementApplication.class
+com/flightmanagement/repository/FlightRepository.class
+com/flightmanagement/controller/FlightController.class
+com/flightmanagement/service/FlightService.class

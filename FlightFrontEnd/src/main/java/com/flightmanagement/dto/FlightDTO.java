@@ -1,4 +1,4 @@
-package main.java.com.flightmanagement.dto;
+package com.flightmanagement.dto;
 
 public class FlightDTO {
 
